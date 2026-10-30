@@ -19,7 +19,7 @@
 ---
 
 ### 📂 Projetos em Destaque
-- [Sistema de Gestão de Alunos em C++](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO) — Cadastro acadêmico com vetor de structs e funções modularizadas.
+- [Sistema de Gestão de Alunos em C++](https://github.com/AlanSilva210487/sistema-gestao-aluno-cpp) — Cadastro acadêmico com vetor de structs e funções modularizadas.
 
 ---
 
