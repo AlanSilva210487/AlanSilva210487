@@ -21,6 +21,8 @@
 ### 📂 Projetos em Destaque
 - [Sistema de Gestão de Alunos em C++](https://github.com/AlanSilva210487/sistema-gestao-aluno-cpp) — Cadastro acadêmico com vetor de structs e funções modularizadas.
 
+- [Sistema de Agendamento da Barbearia em C++] (https://github.com/AlanSilva210487/sistema-agendamento-barbearia) - Cadastro de agendamento para atendimento em uma Barbearia.
+
 ---
 
 ### 📫 Contato
